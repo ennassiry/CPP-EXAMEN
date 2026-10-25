@@ -5,8 +5,9 @@
 
 
 # 📌 Exercice 1:
-
-2. Différence entre le passage par valeur et le passage par référence et Passage par valeur :
+ 1. Déterminez le résultat affiché par ce programme. (1 pt)
+    X = 15 et y = 20
+3. Différence entre le passage par valeur et le passage par référence et Passage par valeur :
    
 Passage par valeur : La fonction reçoit une copie de la valeur de la variable passée en argument. Toute modification effectuée sur le paramètre à l'intérieur de la fonction n'a aucun impact sur la variable d'origine dans le programme principal.
 Passage par référence :
